@@ -1,0 +1,26 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  /*text-align: center;*/
+  
+}
+.header{
+
+}
+.navbar{
+  background-color: #222222;
+  height: 50px;
+  display: flex;
+
+}
+.navbar h4{
+  background-color: #f5bc04;
+  width: 15%;
+  color: white;
+  height: 30px;
+  margin: 10px;
+  border-radius: 10px;
+}
